@@ -1,0 +1,21 @@
+SUPPLIER|S1|Toshiba|Tokyo, Japan
+SUPPLIER|W2|Papelaria Fernandes|Oeiras, Portugal
+SUPPLIER|P1|Publicações Europa-América|Lisboa, Portugal
+SUPPLIER|P3|O'Reilly|Köln, Germany
+CLIENT|R2|Jorge Figueiredo|Lisboa, Portugal
+CLIENT|E4|Filomena Figueiredo|Lisboa, Portugal
+CLIENT|ER|Abdul Figueiredo|Casablanca, Morocco
+CLIENT|O9|Hellen Figueiredo|San Francisco, CA, USA
+CLIENT|H2SO4|John Figueiredo|Wellington, New Zealand
+CLIENT|H2O|Rohit Figueiredo|New Delhi, India
+STAMP|C6H5OH|NORMAL|Papelaria Fernandes|2|20|100
+STAMP|H2|AIR|Papelaria Fernandes|4|20|100
+STAMP|O3|EXPRESS|Papelaria Fernandes|8|20|100
+STAMP|CO2|PERSONAL|Papelaria Fernandes|16|20|0
+ENVELOPE|M4|NORMAL|B4|Papelaria Fernandes|2|20|100
+ENVELOPE|M2|AIR|C4|Papelaria Fernandes|4|20|100
+ENVELOPE|M5|EXPRESS|B4|Papelaria Fernandes|8|20|100
+ENVELOPE|M3|PERSONAL|DL|Papelaria Fernandes|16|20|0
+BOOK|B1256|Os Lusíadas|Luís de Camões|1234567890|Publicações Europa-América|58|2|5
+BOOK|B9854|Head First Java|Sierra & Bates|9876543210|O'Reilly|75|2|5
+BOOK|B1937|How to fix almost everything|Satoshi Yamada|1928374650|Toshiba|5|2|5
