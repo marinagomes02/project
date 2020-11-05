@@ -1,6 +1,6 @@
 package woo;
 
-public class OrderTransaction extends OrderTransaction {
+public class OrderTransaction extends Transaction {
 
     private String supplierId;
     private int orderCost;

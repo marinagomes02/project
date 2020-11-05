@@ -21,8 +21,7 @@ public class Store implements Serializable {
    * @throws BadEntryException
    */
   void importFile(String txtfile) throws IOException, BadEntryException, ImportFileException {
-    
-    BufferedReader in
+    //FIXME
   }
 
 }

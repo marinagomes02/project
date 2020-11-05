@@ -1,6 +1,6 @@
 package woo;
 
-public class SaleTransaction extens Transaction {
+public class SaleTransaction extends Transaction {
 
     private int amount;
     private int deadline;
